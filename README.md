@@ -1,0 +1,4 @@
+Ants
+====
+
+Ants AI contest
